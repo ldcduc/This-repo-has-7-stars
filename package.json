@@ -1,0 +1,12 @@
+{
+  "name": "this-repos-has-x-stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "ldcduc",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
